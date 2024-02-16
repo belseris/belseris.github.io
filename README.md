@@ -4,7 +4,8 @@
 สำหรับวิชา OOP 
 รัฐภาคย์ สินฺศิริ
 
-[![WIN_20230917_23_21_51_Pro](https://github.com/belseris/belseris.github.io/assets/159877766/db7465bd-dc80-45b8-ba10-7929292a52ad800/250)](https://www.facebook.com/bell.sinsiri?locale=th_TH)
+[![WIN_20230917_23_21_51_Pro][(https://github.com/belseris/belseris.github.io/assets/159877766/d9bae1e7-7389-4880-a64a-e09b2a304e29)
+800/250)](https://www.facebook.com/bell.sinsiri?locale=th_TH)
 
 # คำสั่ง git พื้นฐาน
 git status git add git commit
